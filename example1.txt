@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi its dev-2 Good Evening!!
+=======
+Hi Dandu Shiva Good Evening!!
+>>>>>>> origin/master
